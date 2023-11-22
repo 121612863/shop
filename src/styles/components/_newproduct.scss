@@ -1,0 +1,46 @@
+.content-product {
+  margin-bottom: 50px;
+}
+.form-group {
+    margin-bottom: 20px; 
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  } 
+  
+  /* Style cho button */
+  
+  button {
+    background: #008000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background: #006000;
+    cursor: pointer;
+  }
+.dangbai {
+  background: #006000;
+    cursor: pointer;
+  color: #fff
+}
+.complate-item {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  flex-direction: column;
+
+}

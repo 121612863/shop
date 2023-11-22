@@ -1,0 +1,520 @@
+[
+  
+  {
+    "id": "4",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Chén",
+    "name": "Chén Vân Đá Bán Lẻ",
+    "rate": 4,
+    "reviewCount": 10,
+    "price": 30000,
+    "discount": 2,
+    "new": true,
+    "quantity": 8,
+    "sex": "",
+    "size": [
+      {
+        "name": "S"
+      },
+      {
+        "name": "M"
+      },
+      {
+        "name": "L"
+      }
+    ],
+    "thumbImage": ["/assets/images/products/dogom/1.jpeg", "/assets/images/products/dogom/2.jpeg"],
+    "images": [
+      "/assets/images/products/dogom/1.jpeg",
+      "/assets/images/products/dogom/2.jpeg",
+      "/assets/images/products/dogom/3.jpeg",
+      "/assets/images/products/dogom/4.jpeg"
+      
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt.",
+    "slug": "Chén Vân Đá Bán Lẻ"
+  },
+  {
+    "id": "5",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Chén",
+    "name": "Chén bát vuông ăn cơm nhiều mẫu xinh, hàng gốm sứ có sẵn chữ hollo day, dream up,..",
+    "rate": 5,
+    "price": 50000,
+    "quantity": 6,
+    "isNew": true,
+    "sex": "",
+    "size": [
+      {
+        "name": "M"
+      },
+      {
+        "name": "L"
+      },
+      {
+        "name": "S"
+      }
+    ],
+    "variation": [
+      {
+        "color": "red",
+        "colorCode": "#8B0000"
+      },
+      {
+        "color": "blue",
+        "colorCode": "#4169E1"
+      }
+    ],
+    "thumbImage": ["/assets/images/products/dogom/6.jpeg", "/assets/images/products/dogom/7.jpeg"],
+    "images": [
+      "/assets/images/products/dogom/8.jpeg",
+      "/assets/images/products/dogom/9.jpeg",
+      "/assets/images/products/dogom/10.jpeg",
+      "/assets/images/products/dogom/11.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt.",
+    "slug": "Chén bát vuông ăn cơm nhiều mẫu xinh, hàng gốm sứ có sẵn chữ hollo day, dream up,.."
+  },
+  {
+    "id": "6",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Chén",
+    "name": "Bộ chén bát dĩa tô sứ ăn cơm thổ cẩm hoa mùa thu họa tiết Hello màu vàng nâu trắng sang trọng",
+    "rate": 5,
+    "price": 30000,
+    "quantity": 12,
+    "sex": "",
+    "size": [
+      {
+        "name": "M"
+      },
+      {
+        "name": "L"
+      },
+      {
+        "name": "S"
+      }
+    ],
+    "variation": [
+      {
+        "color": "red",
+        "colorCode": "#8B0000"
+      },
+      {
+        "color": "blue",
+        "colorCode": "#4169E1"
+      }
+    ],
+    "thumbImage": ["/assets/images/products/dogom/12.jpeg", "/assets/images/products/dogom/13.jpeg"],
+    "images": [
+      "/assets/images/products/dogom/14.jpeg",
+      "/assets/images/products/dogom/15.jpeg",
+      "/assets/images/products/dogom/16.jpeg",
+      "/assets/images/products/dogom/16.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "ivory-check-longline-tunic-shirt-3"
+  },
+  {
+    "id": "10",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Đĩa",
+    "name": "Dĩa Gốm Phết Xanh/Gà/Hoa/Chỉ Xanh Cổ Xưa Size Đường Kính 12cm - Gốm Xưa Lái Thiêu Cho Người Hoài Niệm - Gốm Nam Bộ",
+    "rate": 5,
+    "price": 37000,
+    "quantity": 25,
+    "sex": "",
+    "thumbImage": [
+      "/assets/images/products/dogom/17.jpeg",
+      "/assets/images/products/dogom/18.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/dogom/19.jpeg",
+      "/assets/images/products/dogom/20.jpeg",
+      "/assets/images/products/dogom/21.jpeg",
+      "/assets/images/products/dogom/22.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Dĩa Gốm Phết Xanh Cổ Xưa Size Đường Kính 12cm - Gốm Xưa Lái Thiêu Cho Người Hoài Niệm - Gốm Nam Bộ"
+  },
+  {
+    "id": "11",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Đĩa",
+    "name": "Dĩa Gốm Phết Xanh Cổ Xưa Size Đường Kính 15.5cm - Gốm Xưa Lái Thiêu Cho Người Hoài Niệm - Gốm Nam Bộ",
+    "rate": 5,
+    "price": 35000,
+    "quantity": 25,
+    "sex": "",
+    "thumbImage": [
+      "/assets/images/products/dogom/23.jpeg",
+      "/assets/images/products/dogom/24.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/dogom/25.jpeg",
+      "/assets/images/products/dogom/26.jpeg",
+      "/assets/images/products/dogom/27.jpeg",
+      "/assets/images/products/dogom/28.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Dĩa Gốm Phết Xanh Cổ Xưa Size Đường Kính 15.5cm - Gốm Xưa Lái Thiêu Cho Người Hoài Niệm - Gốm Nam Bộ"
+  },
+  {
+    "id": "12",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Đĩa",
+    "name": "DĨA TRÒN GỐM SỨ HOA VĂN 4D CHỮ PHÚC ",
+    "rate": 4,
+    "price": 25000,
+    "quantity": 30,
+    "isNew": true,
+    "sex": "",
+    "thumbImage": [
+      "/assets/images/products/dogom/29.jpeg",
+      "/assets/images/products/dogom/1305.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/dogom/31.jpeg",
+      "/assets/images/products/dogom/32.jpeg",
+      "/assets/images/products/dogom/33.jpeg",
+      "/assets/images/products/dogom/33.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "DĨA TRÒN GỐM SỨ HOA VĂN 4D CHỮ PHÚC"
+  },
+  {
+    "id": "13",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Tô",
+    "name": "Bát Tô Tròn Bát Tràng Hoạ Tiết Chữ Phúc Gốm Sứ Bát Tràng | Sự Tinh Tế và Sang Trọng trong Bữa Ăn",
+    "rate": 5,
+    "price": 35000,
+    "quantity": 3,
+    "sex": "",
+    "thumbImage": [
+      "/assets/images/products/dogom/34.jpeg",
+      "/assets/images/products/dogom/35.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/dogom/36.jpeg",
+      "/assets/images/products/dogom/37.jpeg",
+      "/assets/images/products/dogom/38.jpeg",
+      "/assets/images/products/dogom/39.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Bát Tô Tròn Bát Tràng Hoạ Tiết Chữ Phúc Gốm Sứ Bát Tràng Sự Tinh Tế và Sang Trọng trong Bữa Ăn"
+  },
+  {
+    "id": "14",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Tô",
+    "name": "Tô chén dĩa men lam 💥 CAO CẤP 💥 Bát hoa văn trong lòng , hình hoa anh đào nhỏ hoặc vân sọc",
+    "rate": 3,
+    "price": 50000,
+    "quantity": 18,
+    "sex": "",
+    "thumbImage": [
+      "/assets/images/products/dogom/41.jpeg",
+      "/assets/images/products/dogom/42.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/dogom/43.jpeg",
+      "/assets/images/products/dogom/44.jpeg",
+      "/assets/images/products/dogom/45.jpeg",
+      "/assets/images/products/dogom/46.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Tô chén dĩa men lam  CAO CẤP  Bát hoa văn trong lòng , hình hoa anh đào nhỏ hoặc vân sọc"
+  },
+  {
+    "id": "15",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Tô",
+    "name": "Tô Gốm Vẽ Gà Trống - Tô Tượng Size Đại 21cm - Gốm Lái Thiêu - Gốm Xưa Cho Người Hoài Niệm",
+    "rate": 3,
+    "price": 40000,
+    "quantity": 18,
+    "discount": 4,
+    "sex": "",
+    "thumbImage": [
+      "/assets/images/products/dogom/47.jpeg",
+      "/assets/images/products/dogom/48.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/dogom/49.jpeg",
+      "/assets/images/products/dogom/50.jpeg",
+      "/assets/images/products/dogom/51.jpeg",
+      "/assets/images/products/dogom/52.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Tô Gốm Vẽ Gà Trống - Tô Tượng Size Đại 21cm - Gốm Lái Thiêu - Gốm Xưa Cho Người Hoài Niệm"
+  },
+  {
+    "id": "16",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Ly",
+    "name": "Cốc gốm sứ tráng men vintage trắng nhỏ xinh, cốc sứ vintage, cốc sứ cà phê",
+    "rate": 5,
+    "price": 30000,
+    "quantity": 6,
+    "sex": "",
+    "thumbImage": [
+      "/assets/images/products/dogom/53.jpeg",
+      "/assets/images/products/dogom/54.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/dogom/53.jpeg",
+      "/assets/images/products/dogom/54.jpeg",
+      "/assets/images/products/dogom/55.jpeg",
+      "/assets/images/products/dogom/56.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Cốc gốm sứ tráng men vintage trắng nhỏ xinh, cốc sứ vintage, cốc sứ cà phê"
+  },
+  {
+    "id": "17",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Ly",
+    "name": "Ly sứ - Cốc sứ in hình mèo ngộ nghĩnh - Quà tặng dễ thương",
+    "rate": 5,
+    "price": 120000,
+    "quantity": 6,
+    "thumbImage": ["/assets/images/products/dogom/57.jpeg", "/assets/images/products/dogom/58.jpeg"],
+    "images": [
+      "/assets/images/products/dogom/57.jpeg",
+      "/assets/images/products/dogom/58.jpeg",
+      "/assets/images/products/dogom/59.jpeg",
+      "/assets/images/products/dogom/60.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Ly sứ Cốc sứ in hình mèo ngộ nghĩnh Quà tặng dễ thương"
+  },
+  {
+    "id": "18",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Muỗng",
+    "name": "Set 6 Thìa Inox Cán Sứ Vân Đá Xanh - Bộ 6 Muỗng Inox Mạ Vân Đá",
+    "rate": 5,
+    "price": 15000,
+    "quantity": 6,
+    "thumbImage": ["/assets/images/products/dogom/62.jpeg", "/assets/images/products/dogom/61.jpeg"],
+    "images": [
+      "/assets/images/products/dogom/61.jpeg",
+      "/assets/images/products/dogom/62.jpeg",
+      "/assets/images/products/dogom/63.jpeg",
+      "/assets/images/products/dogom/64.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Set 6 Thìa Inox Cán Sứ Vân Đá Xanh - Bộ 6 Muỗng Inox Mạ Vân Đá"
+  },
+  {
+    "id": "19",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Ấm Trà",
+    "name": "Gốm Sứ Cổ Xưa Bát Tràng Dân Dã, Bình Tích trà,750ml-1000ml-1,500lm-2000ml-3000ml",
+    "rate": 4,
+    "price": 300000,
+    "quantity": 6,
+    "thumbImage": ["/assets/images/products/dogom/66.jpeg", "/assets/images/products/dogom/65.jpeg"],
+    "images": [
+      "/assets/images/products/dogom/66.jpeg",
+      "/assets/images/products/dogom/65.jpeg",
+      "/assets/images/products/dogom/67.jpeg",
+      "/assets/images/products/dogom/68.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Gốm Sứ Cổ Xưa Bát Tràng Dân Dã, Bình Tích trà"
+  },
+  {
+    "id": "20",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Ấm Trà",
+    "name": "Bộ ấm trà bằng gốm đất nung chất lượng",
+    "rate": 5,
+    "price": 120000,
+    "quantity": 6,
+    "thumbImage": ["/assets/images/products/dogom/69.jpeg", "/assets/images/products/dogom/70.jpeg"],
+    "images": [
+      "/assets/images/products/dogom/69.jpeg",
+      "/assets/images/products/dogom/70.jpeg",
+      "/assets/images/products/dogom/71.jpeg",
+      "/assets/images/products/dogom/72.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Bộ ấm trà bằng gốm đất nung chất lượng"
+  },
+  {
+    "id": "21",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Ấm Trà",
+    "name": "Bộ Ấm Chén Tráng Men Hoa Tuyết Cao Cấp 6 Chén - Vân Hoa Tuyết Mới",
+    "rate": 3,
+    "price": 600000,
+    "quantity": 15,
+    "thumbImage": ["/assets/images/products/dogom/73.jpeg", "/assets/images/products/dogom/74.jpeg"],
+    "images": [
+      "/assets/images/products/dogom/74.jpeg",
+      "/assets/images/products/dogom/73.jpeg",
+      "/assets/images/products/dogom/74.jpeg",
+      "/assets/images/products/dogom/75.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Bộ Ấm Chén Tráng Men Hoa Tuyết Cao Cấp 6 Chén Vân Hoa Tuyết Mới"
+  },
+  {
+    "id": "22",
+    "category": "Đồ Gốm Sứ Cũ",
+    "subCategory": "Ấm Trà",
+    "name": "Bộ Ấm Trà Đất Sét Tím 79mb Phong Cách kung fu Cổ Điển",
+    "rate": 4,
+    "price": 100000,
+    "quantity": 6,
+    "thumbImage": ["/assets/images/products/dogom/76.jpeg", "/assets/images/products/dogom/77.jpeg"],
+    "images": [
+      "/assets/images/products/dogom/76.jpeg",
+      "/assets/images/products/dogom/77.jpeg",
+      "/assets/images/products/dogom/78.jpeg",
+      "/assets/images/products/dogom/79.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Bộ Ấm Trà Đất Sét Tím 79mb Phong Cách kung fu Cổ Điển"
+  },
+  {
+    "id": "23",
+    "category": "fruits",
+    "subCategory": "fruits",
+    "name": "lemon",
+    "rate": 5,
+    "price": 5,
+    "quantity": 6,
+    "thumbImage": ["/assets/images/products/fruits/7.png", "/assets/images/products/fruits/8.png"],
+    "images": [
+      "/assets/images/products/fruits/7.png",
+      "/assets/images/products/fruits/8.png",
+      "/assets/images/products/fruits/9.png",
+      "/assets/images/products/fruits/10.png"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "lemon-23"
+  },
+  {
+    "id": "24",
+    "category": "Túi Cũ",
+    "subCategory": "Túi Tote",
+    "name": "Túi vải bố, Túi vải Canvas trơn màu kem không khóa kéo",
+    "rate": 4,
+    "price": 10000,
+    "quantity": 6,
+    "thumbImage": ["/assets/images/products/tui/1.jpeg", "/assets/images/products/tui/2.jpeg"],
+    "images": [
+      "/assets/images/products/tui/1.jpeg",
+      "/assets/images/products/tui/2.jpeg",
+      "/assets/images/products/tui/3.jpeg",
+      "/assets/images/products/tui/4.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Túi vải bố, Túi vải Canvas trơn màu kem không khóa kéo"
+  },
+  {
+    "id": "25",
+    "category": "Trang Sức",
+    "subCategory": "Vòng Cổ",
+    "name": "Dây Chuyền Phong Cách Trung Hoa Cổ Điển Thời Trang Mùa Thu Dành Cho Nữ",
+    "rate": 5,
+    "price": 13000,
+    "quantity": 9,
+    "thumbImage": ["/assets/images/products/trangsuc/1.jpeg", "/assets/images/products/trangsuc/2.jpeg"],
+    "images": [
+      "/assets/images/products/trangsuc/1.jpeg",
+      "/assets/images/products/trangsuc/2.jpeg",
+      "/assets/images/products/trangsuc/3.jpeg",
+      "/assets/images/products/trangsuc/4.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Dây Chuyền Phong Cách Trung Hoa Cổ Điển Thời Trang Mùa Thu Dành Cho Nữ"
+  },
+  {
+    "id": "26",
+    "category": "Trang Sức",
+    "subCategory": "Vòng Tay",
+    "name": "Vòng Đeo Tay handmade Bằng Gốm Hình Mèo Dễ Thương Xinh Xắn",
+    "rate": 5,
+    "price": 15000,
+    "quantity": 26,
+    "thumbImage": [
+      "/assets/images/products/trangsuc/6.jpeg",
+      "/assets/images/products/trangsuc/7.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/trangsuc/6.jpeg",
+      "/assets/images/products/trangsuc/7.jpeg",
+      "/assets/images/products/trangsuc/8.jpeg",
+      "/assets/images/products/trangsuc/9.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "Vòng Đeo Tay handmade Bằng Gốm Hình Mèo Dễ Thương Xinh Xắn"
+  },
+  {
+    "id": "27",
+    "category": "Combo Quà Tặng",
+    "subCategory": "Combo M",
+    "name": "COMBO Quà Tặng Nến Thơm,Tinh Dầu, Xịt Thơm, Nước Hoa Tóc Dành Tặng 20.11",
+    "rate": 5,
+    "price": 200000,
+    "quantity": 30,
+    "thumbImage": [
+      "/assets/images/products/combo/1.jpeg",
+      "/assets/images/products/combo/2.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/combo/1.jpeg",
+      "/assets/images/products/combo/2.jpeg",
+      "/assets/images/products/combo/3.jpeg",
+      "/assets/images/products/combo/4.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "coconut-27"
+  },
+  {
+    "id": "28",
+    "category": "Combo Quà Tặng",
+    "subCategory": "Combo L",
+    "name": "Hộp quà nến thơm, set quà nến thơm handmade tặng người yêu, dịp 20/11 ý nghĩa, dễ thương",
+    "rate": 4,
+    "price": 210000,
+    "discount": 2,
+    "quantity": 17,
+    "thumbImage": [
+      "/assets/images/products/combo/5.jpeg",
+      "/assets/images/products/combo/6.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/combo/5.jpeg",
+      "/assets/images/products/combo/6.jpeg",
+      "/assets/images/products/combo/7.jpeg",
+      "/assets/images/products/combo/8.jpeg"
+    ],
+    "description": "Kích thước: như hình, nếu cần kích thước cụ thể xin nhắn tin cho shop. Màu sắc: ở ngoài màu có thể xấu hơn trong hình, do hình ảnh đã qua chỉnh sửa nên mới đẹp vậy. Chất liệu: Gốm sứ bình thường không có gì đặt biệt",
+    "slug": "watermelon-28"
+  },
+  {
+    "id": "29",
+    "category": "Không Gian Sự Kiện",
+    "subCategory": "Không Gian Sự Kiện",
+    "name": "Bịt Mắt",
+    "rate": 4,
+    "price": 500000,
+    "quantity": 6,
+    "thumbImage": [
+      "/assets/images/products/sukien/1.jpeg",
+      "/assets/images/products/sukien/1.jpeg"
+    ],
+    "images": [
+      "/assets/images/products/sukien/1.jpeg"
+     
+    ],
+    "description": "",
+    "slug": "Bịt Mắ"
+  }
+  
+]

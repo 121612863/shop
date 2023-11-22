@@ -1,0 +1,5 @@
+.menu-search__form-select.ant-select .ant-select-selector {
+    margin-top: -6.5px;
+    height: 45px !important;
+    margin-left: 10px !important;
+}
