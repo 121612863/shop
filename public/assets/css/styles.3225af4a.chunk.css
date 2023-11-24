@@ -217,8 +217,9 @@ template {
 }
 @media only screen and (max-width: 576px) {
   .banners .banner-item {
-    margin-bottom: 1.0714285714em;
-    margin-top: 1.0714285714em;
+    margin-bottom: -0.928571em;
+    margin-top: 1.071429em;
+    width: 411px;
   }
 }
 .banners .banner-item:hover img {
